@@ -1,3 +1,5 @@
+// kaiser.js
+
 export function initKaiser(player) {
   player.characterName = "Kaiser";
   player.isKaiser = true;
